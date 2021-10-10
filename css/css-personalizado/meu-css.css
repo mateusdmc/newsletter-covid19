@@ -46,3 +46,11 @@
 .bg-cinza{
     background-color: #e3e3e3;
 }
+
+.bg-footer{
+    background-color: #424242;
+}
+
+.tx-footer{
+    font-size: smaller;
+}
